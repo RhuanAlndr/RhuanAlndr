@@ -3,9 +3,8 @@
 - 🔭 Estou aprendendo C#, HTML e CSS.
 
 <div>
-  <a href="https://github.com/RhuanAlndr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanAlndr&show_icons=true&theme=dracula&hide_title=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanAlndr&layout=compact&theme=dracula">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanAlndr&show_icons=true&theme=dracula&hide_title=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanAlndr&layout=compact&theme=dracula"/>
 </div>
     
 ##
