@@ -1,6 +1,6 @@
 ## Rhuan Oliveira
-
-- 🔭 Estou estudando SQL.
+- Desenvolvedor de software com foco em C# e .NET
+- 🔭 Estudando SQL
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RhuanAlndr&show_icons=true&theme=dracula&hide_title=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhuanAlndr&layout=compact&theme=dracula"/>
